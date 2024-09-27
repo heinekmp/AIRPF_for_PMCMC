@@ -10,5 +10,5 @@ Particle Markov chain Monte Carlo methods.
 
 <a id="2">[2]</a> 
 Heine, K., Whiteley, N. and Cemgil A. T. (2020).
-Parallelizing par- ticle filters with butterfly interactions. 
+Parallelizing particle filters with butterfly interactions. 
 *Scandinavian Journal of Statistics* **47** 361-396.
